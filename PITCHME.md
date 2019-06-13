@@ -54,7 +54,7 @@ DNS
 +++
 
 共用サーバ<br>
-専用サーバ<br>
+専用サーバ（マネージドサーバ）<br>
 VPS<br>
 クラウドサーバ（AWS、Azure、GCP）
 
@@ -66,33 +66,40 @@ VPS<br>
 +++
 
 ### 専用サーバ（マネージドサーバ）
-マンション一つ丸々一棟借り
+マンション一つ丸々一棟借り。さらには管理人さん付き
 
 +++
 
 ### VPS
-土地は貸してあげる、後はDIYで頑張れ
+土地は貸してあげる、後はDIYでマンションを建てろ。<br>
+好き勝手にやっていけど、その後の管理も全て自分自身。
 
 +++
 
 ### クラウドサーバ
 未来のマンション<br>
-どんなふうにも一瞬に自由自在
+どんなふうにもボタン一つで自由自在。
 
 ---
 
 ### フロントエンジニアとバックエンドエンジニア
 
+---
+
+### フロントエンドエンジニア
 html,CSS,JS
 
 +++
 
+### バックエンドエンジニア
 php,ruby,Python,node.js,Elixir,Java
 
 +++
 
-Web Developer Roadmap<br>
+### Web Developer Roadmap
 https://github.com/kamranahmedse/developer-roadmap
+
+---
 
 ### タービンで扱うCMS
 
