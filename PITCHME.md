@@ -77,8 +77,38 @@ DNS
 未来のマンション<br>
 どんなふうにも一瞬に自由自在
 
+---
+
+### フロントエンジニアとバックエンドエンジニア
+
+html,CSS,JS
+
++++
+
+php,ruby,Python,node.js,Elixir,Java
+
++++
+
+Web Developer Roadmap<br>
+https://github.com/kamranahmedse/developer-roadmap
+
 ### タービンで扱うCMS
 
+- HubSpot
+- WordPress
+- Movable Type(PowerCMS)
 
++++
 
+#### MA機能付き
+HubSpot
 
++++
+
+#### オープンソース（無料）動的CMS
+WordPress
+
++++
+
+#### クローズドソース（有料）静的CMS
+Movable Type(PowerCMS)
