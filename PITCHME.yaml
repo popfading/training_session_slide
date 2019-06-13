@@ -1,0 +1,8 @@
+#テーマの設定
+theme : 
+
+#スライドのページ数表示の設定
+slide-number: true
+
+#トランジションの設定
+transition : fade
