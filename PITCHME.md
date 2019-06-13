@@ -17,8 +17,10 @@
 
 +++
 
-デザイナーさんでも自分が作ったものがどのようにして、<br>
-世の中で観られているのか、少しでも今以上にWebに興味を持ってもらえてたら<br>
+デザイナーさんでも自分が作ったものが<br>
+どのようにして、<br>
+世の中で観られているのか、<br>
+少しでも今以上にWebに興味を持ってもらえてたら<br>
 これ幸い
 
 ---
@@ -40,8 +42,8 @@
 
 +++
 
-IP
-ドメイン
+IP<br>
+ドメイン<br>
 DNS
 
 ---
@@ -51,10 +53,10 @@ DNS
 
 +++
 
-- 共用サーバ
-- 専用サーバ
-- VPS
-- クラウドサーバ（AWS、Azure、GCP）
+共用サーバ<br>
+専用サーバ<br>
+VPS<br>
+クラウドサーバ（AWS、Azure、GCP）
 
 +++
 
@@ -94,9 +96,9 @@ https://github.com/kamranahmedse/developer-roadmap
 
 ### タービンで扱うCMS
 
-- HubSpot
-- WordPress
-- Movable Type(PowerCMS)
+HubSpot<br>
+WordPress<br>
+Movable Type(PowerCMS)
 
 +++
 
