@@ -15,7 +15,7 @@
 
 +++
 
-![aichi](assets/aichi/aichi.gif)
+![aichi](assets/images/aichi.gif)
 
 +++
 
